@@ -1,3 +1,11 @@
+/**
+ * Java Basic Home Work #10
+ *
+ * @author Dzmitry Karetsi
+ * @todo 10.10.2022
+ * @data 11.10.2022
+ *
+ */
 package swing;
 
 import javax.swing.JFrame;
